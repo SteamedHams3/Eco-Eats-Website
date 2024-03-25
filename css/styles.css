@@ -7,10 +7,14 @@ body {
 }
 
 @media screen and (min-width: 768px) {
-    .carousel-inner{
+    .carouselExampleIndicators{
         height: 900px;
     }
 }
+
+
+
+
 
 .text-start{
     text-align: center;
