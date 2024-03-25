@@ -8,6 +8,14 @@ body {
 
 @media screen and (min-width: 768px) {
     .carousel-inner{
-        height: 700px
+        height: 900px;
     }
+}
+
+.text-start{
+    text-align: center;
+}
+
+.carousel-caption {
+    text-align: center;
 }
