@@ -6,10 +6,20 @@ body {
     background-color: #b6dcdd;
 }
 
+
+
 @media screen and (min-width: 768px) {
-    .carouselExampleIndicators{
-        height: 900px;
+    #carouselExampleIndicators{
+       margin: auto;
     }
+}
+
+
+
+
+
+.text-start{
+    text-align: center;
 }
 
 .carousel-caption {
