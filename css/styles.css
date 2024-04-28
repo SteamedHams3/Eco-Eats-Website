@@ -18,8 +18,10 @@ body {
     }
 }
 
-
-
+.align-left-image {
+    float: left;
+    margin-right: 15px; 
+}
 
 
 .text-start{
