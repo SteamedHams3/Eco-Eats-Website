@@ -23,6 +23,12 @@ body {
     margin-right: 15px; 
 }
 
+.list-group-item {
+   background-color: transparent;
+   border: none;
+}
+    
+
 
 .text-start{
     text-align: center;
