@@ -22,6 +22,10 @@ a {
     color: white;
 }
 
+img:hover{
+ opacity: 0.5;
+}
+
 .align-left-image {
     float: left;
     margin-right: 15px; 
