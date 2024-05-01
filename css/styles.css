@@ -26,6 +26,9 @@ img:hover{
  opacity: 0.5;
 }
 
+a:hover{
+    color: white;
+}
 .align-left-image {
     float: left;
     margin-right: 15px; 
