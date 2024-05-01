@@ -26,8 +26,11 @@ img:hover{
  opacity: 0.5;
 }
 
+a.nav-link:hover{
+    color: white !important;
+}
 a:hover{
-    color: white;
+    color: pink !important;
 }
 .align-left-image {
     float: left;
